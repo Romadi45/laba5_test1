@@ -36,6 +36,7 @@ int main() {
             break;
         default:
             cout << "Ошибка: неверная операция!" << endl;
+        cout << "Wasap" << endl;
     }
     
     return 0;
